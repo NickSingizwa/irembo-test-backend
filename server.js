@@ -46,7 +46,7 @@ app.post('/api/v1/registerDetails', (req, res) => {
 
   const mailOptions = {
     from: 'singizwanick19@gmail.com',
-    to: email, // Enter recipient email address
+    to: email, // g.ishimwe@irembo.com
     subject: 'New Form Submission',
     html: `
       <p><strong>Business Owner Details:</strong></p>
